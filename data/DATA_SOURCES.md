@@ -1,6 +1,6 @@
 # Data Sources
 
-## NHS Talking Therapies (2022/23 – 2024/25) — dataset version 2.1
+## NHS Talking Therapies (2022/23 – 2024/25)
 
 ### Series information
 - Series page:
@@ -37,8 +37,7 @@
 
 - SHA256 checksums:
 
-## IAPT (2012/13 – 2021/22) — dataset versions 1.5 / 2.0
-
+## IAPT (2012/13 – 2021/22)
 ### Series information
 - Series page:
 - Licence:
