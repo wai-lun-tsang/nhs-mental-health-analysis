@@ -3,17 +3,22 @@
 ## NHS Talking Therapies (2022/23 – 2024/25)
 
 ### Series information
-- Series page:
-- Licence:
+- Series page: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports
+- Licence: 
 
 ### 2024-2025
 
-- Report page:
-- Accessed:
-- Files:
+- Report page: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25
+- Accessed: 2026-07-07
+- Files: 
 
 | Renamed file | Original NHS filename | Description |
 |---|---|---|
+|field-completeness.csv|psych-ther-ann-rep-csv-2024-25-dq.csv||
+|metadata.xlsx|psych-ther-ann-2024-25-meta.xlsx||
+|effect-size.csv|psych-ther-ann-rep-csv-2024-25-effect-size-2.csv||
+|main.csv|psych-ther-ann-rep-csv-2024-25-main2.csv||
+|patient-experience.csv|psych-ther-ann-rep-csv-2024-25-peq-2.csv||
 
 - SHA256 checksums:
 
