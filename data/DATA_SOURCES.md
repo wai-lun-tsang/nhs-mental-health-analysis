@@ -34,12 +34,17 @@
 |patient-experience.csv|psych-ther-ann-rep-csv-2023-24-peq.csv||fb6949361ae1e0958144bc99982f077b026d211146740243f04ff58f3cb5e846|
 
 ### 2022-2023
-- Report page:
-- Accessed:
+- Report page: https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23
+- Accessed: 2026-07-11
 - Files:
 
 | Renamed file | Original NHS filename | Description | SHA256 hash |
 |---|---|---|---|
+|effect-size.csv|psych-ther-ann-rep-csv-2022-23-effect-size.csv||9e874bb1c5f0bee509ebe9848ce620ed09990560072135a39822158ac8e00f94|
+|field-completeness.csv|psych-ther-ann-rep-csv-2022-23-dq.csv||c7e1858d501602e5179426a1fc88989c061124d418e4b3c9db1d23d67e95d1d4|
+|main.csv|psych-ther-ann-rep-csv-2022-23-main-v2.csv||3915bf8b087ff9283ab9581c7baeda6b8a77ebd77c3e31a4ed19db778f4c3bf7|
+|metadata.xlsx|psych-ther-ann-2022-23-meta-V1.1.xlsx||d7beb08d85dcd5e3bf695a4bb1399774869e2aaab9cedf98148d1381ecdb55a8|
+|patient-experience.csv|psych-ther-ann-rep-csv-2022-23-peq.csv||e55ee0eaa6ee1a853a075a741830539f9af5aa4483c3e83cc5b1a6045f4c81c6|
 
 ## IAPT (2012/13 – 2021/22)
 ### Series information
